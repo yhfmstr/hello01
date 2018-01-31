@@ -1,1 +1,1 @@
-web: python bot01.py
+web: python manage.py runserver 0.0.0.0:5000
