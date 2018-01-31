@@ -111,7 +111,6 @@ slackclient==1.1.0
 snowballstemmer==1.2.1
 Sphinx==1.6.6
 sphinxcontrib-websupport==1.0.1
-TA-Lib==0.4.16
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.3.1
