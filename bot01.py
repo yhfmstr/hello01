@@ -59,10 +59,7 @@ while True:
     close_price = bars[-1][4]
     print (close_price)
 
-    myFile = open('example2.csv', 'a')
-    with myFile:
-        writer = csv.writer(myFile)
-        writer.writerows(bars)
+    
 
     time.sleep(60)
 
